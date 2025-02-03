@@ -1,1 +1,1 @@
-[Administrative department](./space1/Administrative-department.md)
+[Administrative department](./ADM/ADM__Administration_.md)
